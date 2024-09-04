@@ -6,7 +6,9 @@ int Sum(int a, int b) {
 	return a + b;
 }
 
+
 int main() {
 	cout << "Hello world!";
-	int a = Sum(2, 7);
+	int b = 1, c = 5;
+	int a = Sum(b, c);
 }
