@@ -7,6 +7,6 @@ int Sum(int a, int b) {
 }
 
 int main() {
-	//cout << "Hello world!";
+	cout << "Hello world!";
 	int a = Sum(2, 7);
 }
