@@ -6,9 +6,12 @@ int Sum(int a, int b) {
 	return a + b;
 }
 
+void PrintHelloWorld() {
+	cout << "Hello world!";
+}
 
 int main() {
-	cout << "Hello world!";
 	int b = 1, c = 5;
 	int a = Sum(b, c);
+	PrintHelloWorld();
 }
