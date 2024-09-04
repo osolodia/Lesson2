@@ -7,7 +7,7 @@ int Sum(int a, int b) {
 }
 
 void PrintHelloWorld() {
-	cout << "Hello world!";
+	cout << "Print";
 }
 
 int main() {
